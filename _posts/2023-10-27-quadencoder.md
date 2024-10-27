@@ -10,7 +10,7 @@ sensors that measure wheel revolutions.
 Fortunately, there is a great selection of DC motors with gear boxes
 and hall sensors available.
 
-<img src="2023-10-27-quadencoder-files/motorback.avif" width="50%">
+<img src="/assets/2023-10-27-quadencoder/motorback.avif" width="50%">
 
 The connection is straight-forward:
 1. two connectors for motor power
@@ -18,7 +18,7 @@ The connection is straight-forward:
 3. two digital data lines for the hall sensor data
 
 
-<img src="2023-10-27-quadencoder-files/quadpinout.avif" width="30%">
+<img src="/assets/2023-10-27-quadencoder/quadpinout.avif" width="30%">
 
 The sensor operates like follows:
 1. there is a magnet attached to the motor axis that triggers
@@ -28,7 +28,7 @@ When the motor is spinning, the magnet moves along the two hall sensors
 and triggers them at different times. This gives a shifted rate signal
 on the two data lines:
 
-![Quadrature](2023-10-27-quadencoder-files/quadrature.webp "DC motor with gearbx and hall sensor")
+![Quadrature](/assets/2023-10-27-quadencoder/quadrature.webp "DC motor with gearbx and hall sensor")
 
 This is called a quadrature encoder 
 (an alternative would be a (linear encoder)[https://en.wikipedia.org/wiki/Incremental_encoder] for example).
