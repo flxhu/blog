@@ -6,7 +6,7 @@ tags:
 - arduino
 ---
 
-A mobile robot [needs to know where it is](https://www.youtube.com/watch?v=bZe5J8SVCYQ),
+The mobile robot [needs to know where it is](https://www.youtube.com/watch?v=bZe5J8SVCYQ),
 and a good source of data for inferring location information are
 sensors that measure wheel revolutions.
 
