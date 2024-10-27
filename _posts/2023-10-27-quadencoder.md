@@ -1,6 +1,9 @@
 ---
 title: "Hooking up a DC motor with a Quadrature Encoder"
 date: 2024-10-27
+tags:
+- robotics
+- arduino
 ---
 
 A mobile robot [needs to know where it is](https://www.youtube.com/watch?v=bZe5J8SVCYQ),
