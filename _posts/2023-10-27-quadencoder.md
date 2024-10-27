@@ -16,7 +16,7 @@ like this:
 
 <img src="/blog/assets/2023-10-27-quadencoder/motorback.avif" width="50%">
 
-The connection is straight-forward:
+The pinout is straightforward:
 1. two connectors for motor power
 2. 5V or 3.3V power for the sensor
 3. two digital data lines for the hall sensor data
