@@ -1,5 +1,5 @@
 ---
-title: "Hooking up a DC motor with a Quad Encoder"
+title: "Hooking up a DC motor with a Quadrature Encoder"
 date: 2024-10-27
 ---
 
