@@ -1,1 +1,6 @@
 theme: minima
+title: Dabblings in Tech
+author: Felix Hupfeld
+
+navbar-links:
+  About Me: "I work on a (fault-tolerant parallel file system)[https://www.quobyte.com] at day time and tinker every now and then."
