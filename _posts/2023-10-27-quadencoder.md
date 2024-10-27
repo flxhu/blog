@@ -3,7 +3,7 @@ title: "Hooking up a DC motor with a Quad Encoder"
 date: 2024-10-27
 ---
 
-A mobile robot (needs to know where it is)[https://www.youtube.com/watch?v=bZe5J8SVCYQ],
+A mobile robot [needs to know where it is](https://www.youtube.com/watch?v=bZe5J8SVCYQ),
 and a good source of data for inferring location information are
 sensors that measure wheel revolutions.
 
@@ -31,7 +31,7 @@ on the two data lines:
 ![Quadrature](/assets/2023-10-27-quadencoder/quadrature.webp "DC motor with gearbx and hall sensor")
 
 This is called a quadrature encoder 
-(an alternative would be a (linear encoder)[https://en.wikipedia.org/wiki/Incremental_encoder] for example).
+(an alternative would be a [linear encoder](https://en.wikipedia.org/wiki/Incremental_encoder) for example).
 
 From the signal you can deduce three things:
 1. revolutions of the motor by counting 10 or 01 transitions
